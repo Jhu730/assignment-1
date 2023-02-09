@@ -2,11 +2,19 @@ body {
   font-family: Courier New;
   background-color: silver;
   text-align: center;
+
+  background-image: url(../img/cobra_background.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
 
 p {
-  color: white;
+  color: greenyellow;
   font-weight: bold;
+}
+p span{
+  background-color: black; 
 }
 
 img {
