@@ -1,15 +1,18 @@
 body {
   font-family: Courier New;
   text-align: center;
-  background-image: url(/img/jellyfish_background.jpg);
+  background-image: url(../img/jellyfish_background.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
 }
 
 p {
-  color: white;
+  color:skyblue;
   font-weight: bold;
+}
+p span{
+  background-color: black; 
 }
 
 img {

@@ -2,4 +2,14 @@ body {
   font-family: Gill Sans, sans-serif;
   background-color: salmon;
   text-align: center;
+  font-size: larger;
+  background-image: url(../img/zoo_background.avif);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
+
+div {
+  display: inline;
+}
+
