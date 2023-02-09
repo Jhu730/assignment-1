@@ -3,3 +3,13 @@ body {
   background-color: silver;
   text-align: center;
 }
+
+p{
+  color: white;
+  font-weight: bold;
+}
+
+img{
+  border-radius: 8px;
+  
+}
