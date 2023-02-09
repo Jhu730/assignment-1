@@ -1,0 +1,21 @@
+body {
+    font-family: Courier New;
+    text-align: center;
+    background-image: url(/img/scropion_background.jfif);
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+ 
+    
+  }
+  
+  p{
+    color: white;
+    font-weight: bold;
+  }
+  
+  img{
+    border-radius: 8px;
+    width: 300px;
+  height: 250px;
+  }

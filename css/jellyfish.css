@@ -1,20 +1,19 @@
 body {
-    font-family: Courier New;
-    text-align: center;
-    background-image: url(/img/jellyfish_background.jpg);
-    background-repeat: no-repeat;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
-  
-  p {
-    color: white;
-    font-weight: bold;
-  }
-  
-  img {
-    border-radius: 8px;
-  }
-  
+  font-family: Courier New;
+  text-align: center;
+  background-image: url(/img/jellyfish_background.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+p {
+  color: white;
+  font-weight: bold;
+}
+
+img {
+  border-radius: 8px;
+  width: 300px;
+  height: 250px;
+}
