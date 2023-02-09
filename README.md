@@ -1,7 +1,8 @@
 # zoo-starter-code
 
 This repository is the starter code for Assignment 1 - Zoo.
-# Group memebers: none
+
+Group memebers: none
 
 ### Live Link
 MY WEBSITE LINK
