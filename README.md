@@ -1,6 +1,7 @@
 # zoo-starter-code
 
 This repository is the starter code for Assignment 1 - Zoo.
+Group memebers: none
 
 ### Live Link
 [Website link](https://johnnylaicode.github.io/zoo-starter-code/)
